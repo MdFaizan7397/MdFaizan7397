@@ -1,4 +1,4 @@
- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+ ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
  <a href="https://git.io/typing-svg" rel="nofollow">
   <h1  align="center">Hi 👋, I'm MD FAIZAN ,</h1>
 <h3 align="center">hi, i'm Md Faizan, a passionate self-taught programmer and a full stack web developer from india. i love problem-solving and have solved over 100+ problems on leetcode , i also have a keen interest in web development specially i like working of server side👨‍💻</h3>
